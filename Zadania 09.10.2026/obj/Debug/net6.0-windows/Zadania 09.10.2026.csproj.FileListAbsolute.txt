@@ -1,0 +1,17 @@
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.csproj.AssemblyReference.cache
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania_09._10._2026.Form1.resources
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.csproj.GenerateResource.cache
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.AssemblyInfoInputs.cache
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.AssemblyInfo.cs
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.csproj.CoreCompileInputs.cache
+D:\c# 185142\Zadania 09.10.2026\bin\Debug\net6.0-windows\Zadania 09.10.2026.exe
+D:\c# 185142\Zadania 09.10.2026\bin\Debug\net6.0-windows\Zadania 09.10.2026.deps.json
+D:\c# 185142\Zadania 09.10.2026\bin\Debug\net6.0-windows\Zadania 09.10.2026.runtimeconfig.json
+D:\c# 185142\Zadania 09.10.2026\bin\Debug\net6.0-windows\Zadania 09.10.2026.dll
+D:\c# 185142\Zadania 09.10.2026\bin\Debug\net6.0-windows\Zadania 09.10.2026.pdb
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.dll
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\refint\Zadania 09.10.2026.dll
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.pdb
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\Zadania 09.10.2026.genruntimeconfig.cache
+D:\c# 185142\Zadania 09.10.2026\obj\Debug\net6.0-windows\ref\Zadania 09.10.2026.dll
